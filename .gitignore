@@ -43,6 +43,7 @@
 *.sdf
 *.VC.db
 *.VC.opendb
+<<<<<<< Updated upstream
 
 # Precompiled Assets
 SourceArt/**/*.png
@@ -75,3 +76,12 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+=======
+*.sln
+
+Binaries/
+
+Intermediate/
+
+Saved/
+>>>>>>> Stashed changes
